@@ -10,6 +10,8 @@ Collections of samples about the use kotlin for server side
 
 - Ktor,  is a framework for building server side applications http://ktor.io/
 
+- Spring with Kotlin https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
+
 - Kotlin language https://kotlinlang.org/
 
 # Spanish
@@ -22,13 +24,15 @@ Colección de ejemplos sobre el uso de Kotlin para el lado del servidor.
 
 - Kotlin para el lado del servidor https://kotlinlang.org/docs/reference/server-overview.html
 
-- Ktor, es un framewokr para crear aplicaciones del lado del servidor http://ktor.io/
+- Ktor, es un framework para crear aplicaciones del lado del servidor http://ktor.io/
+
+- Spring con Kotlin https://spring.io/blog/2017/01/04/introducing-kotlin-support-in-spring-framework-5-0
 
 - Lenguaje Kotlin https://kotlinlang.org/
 
-##
+## 
 
 ## Contribution
 
-Please if you want to contribute can you send pull request or you can report issues at  https://github.com/emedinaa/kotlin-for-server-side/issues
+Open an issue or a pull request to suggest changes or additions. You can report issues at https://github.com/emedinaa/kotlin-for-server-side/issues
 
